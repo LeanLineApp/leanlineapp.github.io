@@ -29,4 +29,4 @@ We use Supabase, a secure backend-as-a-service, to store your anonymous profile,
 You own your data. You have the right to access, modify, or permanently delete your data at any time. You can instantly wipe all of your data, revoke your anonymous identifier, and delete your profile directly within the LeanLine app by navigating to Settings and selecting "Delete Account."
 
 ### 6. Contact Us
-If you have any questions about this Privacy Policy, please contact us at: **[Insert Your Support Email or Twitter/X Handle]**.
+If you have any questions about this Privacy Policy, please contact us at: **LeanLine@163.com**.
