@@ -1,5 +1,5 @@
 # Terms of Service / End User License Agreement
-**Last Updated: March 16, 2026**
+**Last Updated: April 2, 2026**
 
 ### 1. Acceptance of Terms
 By downloading and using LeanLine, you agree to these Terms of Service. If you do not agree, please do not use the application.
@@ -18,13 +18,14 @@ LeanLine has a zero-tolerance policy for objectionable content and abusive users
 
 **Moderation & Blocking:** LeanLine provides in-app features to block and report abusive users. We reserve the right, at our sole discretion, to immediately terminate or suspend the anonymous accounts of any users who violate these terms, without prior notice or liability.
 
-### 4. Subscriptions and Auto-Renewal (LeanLine PRO)
-LeanLine offers an auto-renewing subscription to unlock premium features.
+### 4. Premium Subscriptions and Lifetime Purchases (LeanLine PRO)
+LeanLine offers auto-renewing subscriptions and a one-time lifetime purchase option to unlock premium features.
 
 * **Payment:** Payment will be charged to your Apple ID account at confirmation of purchase.
 * **Auto-Renewal:** Your subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current billing period.
 * **Charges:** Your account will be charged for renewal within 24 hours prior to the end of the current period, and will identify the cost of the renewal.
 * **Management & Cancellation:** You can manage your subscriptions and turn off auto-renewal by going to your App Store Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication.
+* **Lifetime Purchases & Future Features:** A Lifetime LeanLine PRO purchase grants access to all premium features available at the time of purchase, as well as standard future updates. The Developer reserves the right to introduce separate, premium add-on services or higher subscription tiers (such as features requiring ongoing third-party server costs, e.g., advanced AI processing) in the future, which may not be included in the legacy Lifetime PRO tier.
 
 ### 5. Disclaimer of Warranties and Limitation of Liability
 THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY LAW, LEANLINE AND ITS DEVELOPER DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO FITNESS FOR A PARTICULAR PURPOSE.
